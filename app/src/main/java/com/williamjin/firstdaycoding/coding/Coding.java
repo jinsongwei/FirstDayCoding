@@ -69,5 +69,14 @@ public class Coding {
         List<String> list = Arrays.asList(duplitList);
         printDuplicates(list);
 
+        //problem 2
+        String str = "123321";
+        System.out.println(checkPalindrome(str));
+
+        // problem 3
+        printDivisible(15);
+        printDivisible(33);
+        printDivisible(55);
+        printDivisible(11);
     }
 }
