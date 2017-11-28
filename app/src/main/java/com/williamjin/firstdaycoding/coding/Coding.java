@@ -36,7 +36,7 @@ public class Coding {
             } else
                 return false;
         }
-        return false;
+        return true;
     }
 
     //    Problem 3
